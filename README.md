@@ -2,7 +2,7 @@
 <div align="center">
   
   ![](https://github.com/christ118/linux-system-logo/blob/94fe6a460d8db96f340a1f9ba807deade601cf36/ubuntu/ubuntu-logo14.png)
- #### hi i am christ4rt , i love linux ,games and coding !
+ #### hi i am christian, i love linux ,games and coding !
   ### VISITS 
 ![visitor](https://profile-counter.glitch.me/christ118/count.svg)
   
